@@ -10,3 +10,4 @@
 | ![](/icons/Aegisub.png) | Aegisub | Subtitle editor | https://aegisub.org |
 | ![](/icons/1Password.png) | 1Password | Password manager | https://1password.com |
 | ![](/icons/DB%20Browser%20for%20SQLite.png) | DB Browser for SQLite | The title says it all | [https://sqlitebrowser.org](https://sqlitebrowser.org/dl/) |
+| ![](/icons/draw.io.png) | draw.io | A diagramming and whiteboarding app | [https://github.com/](https://github.com/jgraph/drawio-desktop/releases/) |
