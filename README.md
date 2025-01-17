@@ -28,3 +28,4 @@
 | ![](/icons/Mactracker.png) | Mactracker | An app that has info about every Mac ever made | Mac App Store |
 | ![](/icons/PPPC%20Utility.png) | PPPC Utility | An app for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS | [https://github.com/](https://github.com/jamf/PPPC-Utility/releases) |
 | ![](/icons/Pixelmator%20Pro.png) | Pixelmator Pro | Professional image editing tool | https://www.pixelmator.com |
+| ![](/icons/Plex.png) | Plex | Media player | [https://www.plex.tv](https://www.plex.tv/media-server-downloads/?cat=plex+desktop&plat=macos#plex-app) |
