@@ -26,3 +26,4 @@
 | ![](/icons/Latest.png) | Latest | Software Update Checker | [https://max.codes/](https://max.codes/latest/) |
 | ![](/icons/MQTT%20Explorer.png) | MQTT Explorer | An all-round MQTT Tool | Mac App Store |
 | ![](/icons/Mactracker.png) | Mactracker | An app that has info about every Mac ever made | Mac App Store |
+| ![](/icons/PPPC%20Utility.png) | PPPC Utility | An app for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS | [https://github.com/](https://github.com/jamf/PPPC-Utility/releases) |
