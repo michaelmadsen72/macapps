@@ -18,3 +18,4 @@
 | ![](/icons/CopyClip.png) | CopyClip | Clipboard History | Mac App Store |
 | ![](/icons/FSMonitor.png) | FSMonitor | An app that monitors all changes to the file system | https://fsmonitor.com |
 | ![](/icons/FileZilla.png) | FileZilla | An FTP Client | https://filezilla-project.org/ |
+| ![](/icons/GitHub%20Desktop.png) | GitHub Desktop | A graphical version of GitHub | [https://desktop.github.com](https://desktop.github.com/download/) |
