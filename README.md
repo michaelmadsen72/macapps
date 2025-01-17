@@ -23,3 +23,4 @@
 | ![](/icons/HandBrake.png) | HandBrake | Convert video from nearly any format | https://handbrake.fr |
 | ![](/icons/Hex%20Fiend.png) | Hex Fiend | Hex editor | https://hexfiend.com |
 | ![](/icons/KnockKnock.png) | KnockKnock | See what's persistently installed on your Mac | [https://objective-see.org](https://objective-see.org/products/knockknock.html) |
+| ![](/icons/Latest.png) | Latest | Software Update Checker | [https://max.codes/](https://max.codes/latest/) |
