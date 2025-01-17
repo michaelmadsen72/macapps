@@ -16,3 +16,4 @@
 | ![](/icons/AudioBookBinder.png) | AudioBookBinder | A simple tool for converting audiobooks from mp3 to m4b | Mac App Store |
 | ![](/icons/Balsamiq%20Wireframes.png) | Balsamiq Wireframes | Wireframing tool | [https://balsamiq.com](https://balsamiq.com/wireframes/desktop/) |
 | ![](/icons/CopyClip.png) | CopyClip | Clipboard History | Mac App Store |
+| ![](/icons/FSMonitor.png) | FSMonitor | An app that monitors all changes to the file system | https://fsmonitor.com |
