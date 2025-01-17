@@ -20,3 +20,4 @@
 | ![](/icons/FileZilla.png) | FileZilla | An FTP Client | https://filezilla-project.org/ |
 | ![](/icons/GitHub%20Desktop.png) | GitHub Desktop | A graphical version of GitHub | [https://desktop.github.com](https://desktop.github.com/download/) |
 | ![](/icons/HEIC%20Converter.png) | HEIC Converter | Convert HEIC images to JPEG or PNG | Mac App Store |
+| ![](/icons/HandBrake.png) | HandBrake | Convert video from nearly any format | https://handbrake.fr |
