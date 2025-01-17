@@ -14,4 +14,5 @@
 | ![](/icons/Apparency.png) | Apparency | The App That Opens Apps | [https://www.mothersruin.com/](https://www.mothersruin.com/software/Apparency/) |
 | ![](/icons/Audacity.png) | Audacity | Audio editor | https://www.audacityteam.org |
 | ![](/icons/AudioBookBinder.png) | AudioBookBinder | A simple tool for converting audiobooks from mp3 to m4b | Mac App Store |
-
+| ![](/icons/Balsamiq%20Wireframes.png) | Balsamiq Wireframes | Wireframing tool | [https://balsamiq.com](https://balsamiq.com/wireframes/desktop/) |
+| ![](/icons/CopyClip.png) | CopyClip | Clipboard History | Mac App Store |
