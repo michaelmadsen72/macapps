@@ -25,3 +25,4 @@
 | ![](/icons/KnockKnock.png) | KnockKnock | See what's persistently installed on your Mac | [https://objective-see.org](https://objective-see.org/products/knockknock.html) |
 | ![](/icons/Latest.png) | Latest | Software Update Checker | [https://max.codes/](https://max.codes/latest/) |
 | ![](/icons/MQTT%20Explorer.png) | MQTT Explorer | An all-round MQTT Tool | Mac App Store |
+| ![](/icons/Mactracker.png) | Mactracker | An app that has info about every Mac ever made | Mac App Store |
